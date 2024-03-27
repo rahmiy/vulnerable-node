@@ -15,7 +15,7 @@
     "express-session": "^1.13.0",
     "log4js": "^0.6.36",
     "morgan": "~1.6.1",
-    "pg-promise": "^4.4.6",
+    "pg-promise": "^11.5.5",
     "serve-favicon": "~2.3.0"
   }
 }
